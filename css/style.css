@@ -37,6 +37,7 @@
   font-size: 15px;
   background-color: F2F2FA;
   padding-top: 3px;
+
 }
 
 .lower-header {
@@ -95,7 +96,7 @@ nav {
 }
 
 .location {
-  display: flex;
+  display:flex;
   flex-direction: row;
   border-bottom: 1px solid lightgray;
 }
@@ -189,7 +190,6 @@ img {
   float: right;
   padding-top: 12px;
   padding-right: 5px;
-
 }
 
 
