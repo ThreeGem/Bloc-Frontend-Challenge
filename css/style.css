@@ -190,14 +190,15 @@ img {
 
 .next {
   float: right;
-  padding-top: 12px;
+  padding-top: 10px;
   padding-right: 5px;
+
 }
 
 
 .location .street {
   display: inline;
-  width: 70%;
+  width: 100%;
 }
 
 .time {
