@@ -197,6 +197,7 @@ img {
 
 .location .street {
   display: inline;
+  width: 70%;
 }
 
 .time {
