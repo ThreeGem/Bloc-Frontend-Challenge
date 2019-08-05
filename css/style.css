@@ -69,7 +69,7 @@ body {
 nav {
   position: sticky;
   width: 375px;
-  background-color: #114B5F;
+  background-color: #0083B1;
   padding: 15px 0 15px 15px;
 }
 
@@ -157,7 +157,33 @@ img {
 }
 
 .divider {
-  background-color: #114B5F;
+  background-color: #0083B1;
+  color: white;
+  width: 100%;
+  display: inherit;
+  text-align: inherit;
+  font-size: 14px;
+  padding-left: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-family: "roboto", "SF", sans-serif;
+}
+
+.divider2 {
+  background-color: #FF9D0B;
+  color: white;
+  width: 100%;
+  display: inherit;
+  text-align: inherit;
+  font-size: 14px;
+  padding-left: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-family: "roboto", "SF", sans-serif;
+}
+
+.divider3 {
+  background-color: #BE2C2C;
   color: white;
   width: 100%;
   display: inherit;
@@ -180,17 +206,50 @@ img {
   padding-bottom: 6px;
   margin: 0;
   border: 8px solid white;
-  background-color: FF6B6B;
+  background-color: 0083B1;
   color: white;
   line-height: 22px;
   font-family: "roboto", "SF", sans-serif;
   margin-left: 10px;
 }
 
+.bus-number-R {
+  display: inline-block;
+  width: 19%;
+  margin: auto;
+  font-size: 17px;
+  text-align: center;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin: 0;
+  border: 8px solid white;
+  background-color: FF9D0B;
+  color: white;
+  line-height: 22px;
+  font-family: "roboto", "SF", sans-serif;
+  margin-left: 10px;
+}
+
+.bus-number-OS {
+  display: inline-block;
+  width: 19%;
+  margin: auto;
+  font-size: 17px;
+  text-align: center;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin: 0;
+  border: 8px solid white;
+  background-color: BE2C2C;
+  color: white;
+  line-height: 22px;
+  font-family: "roboto", "SF", sans-serif;
+  margin-left: 10px;
+}
 
 .next {
   float: right;
-  padding-top: 10px;
+  padding-top: 12px;
   padding-right: 5px;
 
 }
@@ -198,7 +257,7 @@ img {
 
 .location .street {
   display: inline;
-  width: 100%;
+  width: 70%;
 }
 
 .time {
