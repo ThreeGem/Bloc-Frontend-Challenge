@@ -170,7 +170,7 @@ img {
 }
 
 .divider2 {
-  background-color: #FF9D0B;
+  background-color: #BE2C2C;
   color: white;
   width: 100%;
   display: inherit;
@@ -183,7 +183,7 @@ img {
 }
 
 .divider3 {
-  background-color: #BE2C2C;
+  background-color: #777777;
   color: white;
   width: 100%;
   display: inherit;
@@ -223,7 +223,7 @@ img {
   padding-bottom: 6px;
   margin: 0;
   border: 8px solid white;
-  background-color: FF9D0B;
+  background-color: BE2C2C;
   color: white;
   line-height: 22px;
   font-family: "roboto", "SF", sans-serif;
@@ -240,7 +240,7 @@ img {
   padding-bottom: 6px;
   margin: 0;
   border: 8px solid white;
-  background-color: BE2C2C;
+  background-color: 777777;
   color: white;
   line-height: 22px;
   font-family: "roboto", "SF", sans-serif;
