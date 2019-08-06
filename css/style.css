@@ -25,6 +25,7 @@
   padding-left: 20px;
   float: left;
   padding-top:6px;
+  margin-top: 3px;
 }
 
 
@@ -33,8 +34,8 @@
   /* padding-left:18px; */
   padding-left: 3px;
   width: 87%;
-  border: none;
   font-size: 15px;
+  margin-top: 3px;
   background-color: F2F2FA;
   padding-top: 3px;
   padding-bottom: 3px;
@@ -103,23 +104,8 @@ nav {
   border-bottom: 1px solid lightgray;
 }
 
-.current-location {
-  font-family: "roboto", "SF", sans-serif;
-  font-size: 17px;
-  padding-left: 15px;
-  padding-top: 1px;
-  padding: 3px;
-  align-content: left;
-  color: #839ED2;
-  margin-left: 10px;
-}
 
-.current-location .img {
-  padding-left: 5px;
-  margin-left: 10px;
-  padding-top: 3px;
 }
-
 /* .search-bar {
   font-family: "roboto", "SF", sans-serif;
   font-size: 17px;
